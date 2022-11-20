@@ -6,7 +6,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         String latter = scanner.nextLine();
         System.out.println(IsA(latter));
-        
+
     }
 
     public static String IsA (String a) {
