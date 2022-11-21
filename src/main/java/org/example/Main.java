@@ -11,6 +11,8 @@ public class Main {
 
 
 
+
+
     public static String IsA (String a) {
         String s = new String();
         if(a.equals("a") | a.equals("а")){
